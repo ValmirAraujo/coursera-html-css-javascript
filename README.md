@@ -1,4 +1,1 @@
-# coursera-test
-Coursera test repository
-
-rodar o sincronizador de html browser-sync start --server --directory --files "*"
+# Module 2 Coding Assignment
